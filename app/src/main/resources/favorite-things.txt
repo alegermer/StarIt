@@ -1,0 +1,3 @@
+Colors:green4,red2,blue10,pink5
+Foods:apple3,pasta10,pizza5,fondue4
+Dogs:Poodle1,GermanShepherd5,GoldenRetriever10,SiberianHusky8,Pug1,Rottweiler4

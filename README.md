@@ -39,6 +39,6 @@ CLI applications;
 * We could compile this to binary with GraalVM (PicoCLI also supports it), in this way we would get a very small and
 efficient binary to run our software (even though OS specific).
 * More OO design could be applied (getting the File vs Resource approaches addressed as class hierarchy on top of the
-bas parser class for example), extending test cases and reviewing requirements for the system.
+base parser class for example), extending test cases and reviewing requirements for the system.
 * Introduce more features and options for parsing, some ideas would be: total ranking among Categories, least favorite
 things.
